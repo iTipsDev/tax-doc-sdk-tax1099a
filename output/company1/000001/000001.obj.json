@@ -1,0 +1,46 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "61-799-7223",
+  "taxFormId" : "6946656",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0075455",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Glover, McCullough and Turner"
+    },
+    "address" : {
+      "line1" : "5496 Delmar Turnpike",
+      "city" : "Reingerburgh",
+      "region" : "SD",
+      "postalCode" : "97395"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "simone.toy@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-77-5615",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Shakira",
+      "last" : "Satterfield"
+    },
+    "address" : {
+      "line1" : "0287 Daisy Wall",
+      "city" : "Marcuston",
+      "region" : "MN",
+      "postalCode" : "90437"
+    },
+    "email" : "sunshine.mohr@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "410-84475-8",
+  "dateOfAcquisition" : "2025-05-03",
+  "principalBalance" : 200,
+  "fairMarketValue" : 300,
+  "personallyLiable" : true,
+  "propertyDescription" : "propertyDescription"
+}

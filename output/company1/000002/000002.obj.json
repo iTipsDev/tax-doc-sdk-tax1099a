@@ -1,0 +1,46 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "45-917-2337",
+  "taxFormId" : "8995562",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0075455",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Glover, McCullough and Turner"
+    },
+    "address" : {
+      "line1" : "5496 Delmar Turnpike",
+      "city" : "Reingerburgh",
+      "region" : "SD",
+      "postalCode" : "97395"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "simone.toy@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-15-3816",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Daniele",
+      "last" : "Labadie"
+    },
+    "address" : {
+      "line1" : "6832 Block Manors",
+      "city" : "New Ismael",
+      "region" : "CT",
+      "postalCode" : "77746"
+    },
+    "email" : "annemarie.zieme@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "934-61703-7",
+  "dateOfAcquisition" : "2025-11-03",
+  "principalBalance" : 200,
+  "fairMarketValue" : 300,
+  "personallyLiable" : true,
+  "propertyDescription" : "propertyDescription"
+}
