@@ -1,0 +1,46 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "77-368-7282",
+  "taxFormId" : "2580459",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0075455",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Glover, McCullough and Turner"
+    },
+    "address" : {
+      "line1" : "5496 Delmar Turnpike",
+      "city" : "Reingerburgh",
+      "region" : "SD",
+      "postalCode" : "97395"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "simone.toy@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-61-6766",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Loris",
+      "last" : "Koepp"
+    },
+    "address" : {
+      "line1" : "346 Arron Alley",
+      "city" : "East Shantemouth",
+      "region" : "ME",
+      "postalCode" : "58096"
+    },
+    "email" : "livia.grady@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "673-29131-8",
+  "dateOfAcquisition" : "2025-04-20",
+  "principalBalance" : 200,
+  "fairMarketValue" : 300,
+  "personallyLiable" : true,
+  "propertyDescription" : "propertyDescription"
+}
